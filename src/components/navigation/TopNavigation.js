@@ -131,8 +131,8 @@ function TopNavigation() {
                 <div className="half_width_padding">
                     <h2><b>Joshua isaac </b></h2>
                     Software engineer <br /><br />
-                    0770396785<br />
-                    jayisaac0@gmail.com<br />
+                    Phone: 0770396785<br />
+                    Email: jayisaac0@gmail.com<br />
                     {/* Site: <a href="https://isaacjoshua.herokuapp.com/">Portfolio</a><br />
                     GitHub account: <a href="https://github.com/jayisaac0">Github</a><br />
                     Linkedin: <a href="https://www.linkedin.com/in/joshua-omwoyo-a66a9296/">Linkedin</a><br /> */}
