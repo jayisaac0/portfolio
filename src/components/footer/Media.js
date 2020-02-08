@@ -33,7 +33,7 @@ class Media extends Component {
                     </a>
                 </List>
                 <List style={{display: "contents"}}>
-                    <a href="whatsapp://send?phone=254770396785&text=Hello">
+                    <a href=" https://api.whatsapp.com/send?phone=254770396785">
                         <ListItem button key={'3'}>
                             <ListItemIcon><WhatsAppIcon style={{fontSize: "100px",color:"green"}}/></ListItemIcon>
                         </ListItem>

@@ -27,8 +27,8 @@ class SectionOne extends Component {
                         <h2>General programming</h2>
                         <ul>
                             <li>Javascript</li>
-                            <li>C#</li>
                             <li>Python</li>
+                            <li>C#</li>
                         </ul>
                     </div>
                     <div className="third_width_padding">

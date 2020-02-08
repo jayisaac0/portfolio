@@ -108,9 +108,6 @@ function TopNavigation() {
                 <Link to={"/projects"}>
                 <span className="display_smallscreen" style={{marginLeft:"10px",marginRight:"10px"}}>Projects </span>
                 </Link>
-                {/* <IconButton className="nodisplay" component={Link} to={"/projects"} aria-label="show 4 new mails" color="inherit">
-                 <PhotoCameraOutlinedIcon />
-                </IconButton> */}
                 <a href="tel:+254770396785">
                     <IconButton  aria-label="show 4 new mails" color="inherit">
                         <PhoneInTalkIcon />
@@ -136,7 +133,9 @@ function TopNavigation() {
                     Software engineer <br /><br />
                     0770396785<br />
                     jayisaac0@gmail.com<br />
-                    Country: Nairobi - Kenya
+                    {/* Site: <a href="https://isaacjoshua.herokuapp.com/">Portfolio</a><br />
+                    GitHub account: <a href="https://github.com/jayisaac0">Github</a><br />
+                    Linkedin: <a href="https://www.linkedin.com/in/joshua-omwoyo-a66a9296/">Linkedin</a><br /> */}
                     <DialogActions style={{flexDirection: "column"}}>
                     <Button onClick={handleAccountClose} color="primary">
                         Close

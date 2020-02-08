@@ -11,12 +11,8 @@ class Landing extends Component {
     render() { 
         return ( 
             <div>
-        <Banner />
-        <SectionOne />
-        {/* <SectionTwo /> */}
-        {/* <SectionThree />
-        <SectionFour />
-        <SectionFive />                 */}
+                <Banner />
+                <SectionOne />
             </div>
          );
     }
