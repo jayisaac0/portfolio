@@ -3,13 +3,12 @@ import Fab from '@material-ui/core/Fab';
 import ButtonGroup from '@material-ui/core/ButtonGroup';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHubIcon from '@material-ui/icons/GitHub';
-particlesJS.load('particles-js', 'particles.json');
 
 class Banner extends Component {
     state = {  }
     render() { 
         return ( 
-            <div className="top_margin center_content" id="particles-js" style={{backgroundSize:"cover"}}>
+            <div className="top_margin center_content" style={{backgroundSize:"cover"}}>
                 <div className="width_padding two_divisions">
                     <div className="half_width_padding">
                         <h1 className="spacing">Joshua here!</h1>
