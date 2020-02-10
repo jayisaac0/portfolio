@@ -14,6 +14,11 @@ body {
     height: 100vh;
     width: 100%;
 }
+.MuiBottomNavigation-root.makeStyles-root-150{
+    bottom: 0;
+    position: fixed !important;
+    width: 100% !important;
+}
 .ic_marg{
     margin-right: 5px;
 }
