@@ -8,7 +8,7 @@ class Banner extends Component {
     state = {  }
     render() { 
         return ( 
-            <div className="top_margin center_content" style={{backgroundSize:"cover"}}>
+            <div className="top_margin center_content" style={{backgroundSize:"cover",width:"100%"}}>
                 <div className="width_padding two_divisions">
                     <div className="half_width_padding">
                         <h1 className="spacing">Joshua here!</h1>

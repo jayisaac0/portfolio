@@ -98,7 +98,7 @@ class Projects extends Component {
      }
     render() { 
         return ( 
-            <div className="center_content top_margin" style={{padding: "0px !important"}}>
+            <div className="center_content top_margin" style={{padding: "0px !important",width:"100%"}}>
 
                 <List>
                     {this.state.projects.map(project => (
