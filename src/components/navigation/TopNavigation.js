@@ -92,7 +92,7 @@ function TopNavigation() {
               color="inherit"
               aria-label="open drawer"
               component={Link} to={"/"}>
-              <b>JOSH</b>
+              <b>JOSHUA ISAAC</b>
             </IconButton>
             <Typography className={classes.title} variant="h6" >
             
