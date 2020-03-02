@@ -7,7 +7,7 @@ class SectionFour extends Component {
             <div className="center_content content_fix" style={{background:"#f6fbfa"}}>
                 <div className="width_padding">
                     <h2 className="spacing">work  publications</h2>
-                    <h4 className="spacing">Founder and creative director Award winning photographer </h4>
+                    <h4 className="spacing"></h4>
                 </div>
                 <div className="width_padding">
                     <p className="spacing" style={{lineHeight:"2.0"}}>
