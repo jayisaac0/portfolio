@@ -12,13 +12,7 @@ class SectionFour extends Component {
                 <div className="width_padding">
                     <p className="spacing" style={{lineHeight:"2.0"}}>
                     His work has been published on various media articles,
-including South Africa’s Conte Magazine, Be Africa Magazine,
-Lysa Magazine, Vangarde Afrika Magazine, Africa Means
-Business, Agility Africa, Spreadzone Blog, DailyhypeAfrica,
-Artnartistproject, Nikon Africa, Nikon Kenya, OMG Voice
-Kenya, OMG Voice Ghana, Vsco Kenya, Kenyan Creative
-Week, Bizna Kenya, One Eyeland and World Photography
-Organization. 
+including South Africa’s Conte Magazine 
                     </p>
                 </div>
                 <div className="width_padding">
