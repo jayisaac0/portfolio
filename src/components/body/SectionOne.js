@@ -6,7 +6,7 @@ class SectionOne extends Component {
             <div className="center_content content_fix" id="skills" style={{background:"#f6fbfa"}}>
                 <div className="width_padding">
                     <h2 className="spacing">Skills and technologies</h2>
-                    <h4 className="spacing">Proficiency </h4>
+                    <h4 className="spacing">Skill Proficiency</h4>
                 </div>
                 <div className="width_padding three_divisions">
                     <div className="third_width_padding">
