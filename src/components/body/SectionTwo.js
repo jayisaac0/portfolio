@@ -5,7 +5,7 @@ class SectionTwo extends Component {
     render() { 
         return ( 
             <div className="center_content content_fix" style={{background: "url('assets/cover0.jpg') no-repeat",backgroundSize:"cover"}}>
-                <h1>Third</h1>
+                <h1>Third party</h1>
             </div>
          );
     }
